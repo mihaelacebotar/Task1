@@ -4,11 +4,19 @@ public class Git_Class {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
-		System.out.println("Hello World!");
-		System.out.println("How are you?");
-		System.out.println("I'm fine, thank you!");
-		
+		String s1 = "Shine bright like a diamond";
+	    String s2 = "I choose to be happy";
+	    String s3 = new String("We're like diamonds in the sky");
+	    String s4 = new String("You're a shooting star I see");
+	    System.out.println(s1);
+	    System.out.println(s2);
+	    System.out.println(s3);
+	    System.out.println(s4);
+		System.out.println("Shine bright like a diamond" + s1);
+		System.out.println("Find light in the beautiful sea" + s2);
+		System.out.println("You and I, you and I" + s3);
+		System.out.println(s4 + "A vision of ecstasy" + "When you hold me, I'm alive");
+		System.out.println("We're like diamonds in the sky");
 
 	}
 
