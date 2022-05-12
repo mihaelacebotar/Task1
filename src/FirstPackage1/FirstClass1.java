@@ -9,6 +9,9 @@ public class FirstClass1 {
 		System.out.println("Second text");
 		System.out.println("Third text");
 		
+		System.out.println("Fourth text");
+		System.out.println("Haha");
+		
 	}
 
 }
